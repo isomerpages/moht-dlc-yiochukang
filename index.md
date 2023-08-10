@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Health Carnival @ Yio Chu Kang
       background: /images/happy crowd greeting little winner of racing.jpg
-      button: Contact Us
+      button: Register for workshops here
       url: /contact-us/
       key_highlights:
         - title: Highlight A
