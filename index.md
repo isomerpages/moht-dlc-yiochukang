@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: YCK Healthy Carnival
+description: "Browse all talks & workshops available for YCK residents. "
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
