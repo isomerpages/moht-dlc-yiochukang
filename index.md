@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: YCK Healthy Carnival
-description: "Browse all talks & workshops available for YCK residents. "
+description: Browse all talks & workshops available for YCK residents.
 image: /images/isomer-logo.svg
 permalink: /
 notification: Here's a notification bar you can use!
@@ -9,22 +9,13 @@ sections:
   - hero:
       title: Health Carnival @ Yio Chu Kang
       background: /images/happy crowd greeting little winner of racing.jpg
-      button: Register for workshops here
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      button: Register for events here
+      url: /events/
+      subtitle: Towards a healthier Singapore
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: See What's Happening
+      subtitle: Activities Schedule
+      description: Explore events & activities happening at the Health Carnival in YCK
+      button: Browse
       url: /faq/
 ---
