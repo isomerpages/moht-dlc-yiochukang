@@ -18,4 +18,7 @@ sections:
       description: Explore events & activities happening at the Health Carnival in YCK
       button: Browse
       url: /faq/
+  - infopic:
+      image: /images/sample picture1.png
+      alt: Image alt text
 ---
