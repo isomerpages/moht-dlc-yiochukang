@@ -5,33 +5,82 @@ description: ""
 ---
 ## Events for you
 
-<table style="width:100%">
+<p>
+			</p><table style="width:100%">
   <tbody><tr>
 		
 </tr>
 		<tr>
     <td style="width:30%">
-      <img alt="whispering" src="https://viriya.org.sg/wp-content/uploads/2017/07/WHFSC-YEC-2018-Group-e1560440356492.jpg">
+      <img alt="whispering" src="https://img.freepik.com/free-photo/couple-running-together-race_53876-20944.jpg?w=996&amp;t=st=1691649486~exp=1691650086~hmac=5a036d17332f0ff2e5d169e04900c22fe83b05b61ec5186cd61cb02541977abe">
     </td>	
     <td style="width:70%">
-      			<b>	<a target="_blank" href="https://viriya.org.sg/our-services/family-services/whispering-hearts-family-service-centre/">Whispering Hearts Family Service Centre </a></b><br>
-   <p>WHFSC focuses on providing holistic family-centric support to the residents comprising mainly of young families. WHFSC has established strong working relationships with its stakeholders to enhance the community capacity in supporting individuals and families through a systemic approach. </p><p> For Life Stages: Infancy &amp; Early Childhood; Tween &amp; Adolescence; Young Adulthood; Adulthood; Older Adulthood
-			</p><p>
-			<b> Opening hours: </b> Weekdays 9am - 12pm, 1pm - 6pm. Closed on weekends <br>
-			<b> Address:</b> 646 Jurong West Street 61, #61 Block 646, Singapore 640646 <br>
-			<b> Contact no: </b> 6795 1008 <br>
+      			<b>	Community Health exercises - BE ACTIVE！(EXERCISE: RESISTANT BAND)</b>
+   <p>
+		 Date: 4 September 2023, Monday<br>
+		 Time: 9.45am - 11am<br>
+		 Location/type: Online (Zoom)<br>
+		 Partner: TTSH <br> 
+		 <b><a target="_blank" href="https://form.gov.sg/64d487d0ddf0320011233805">Register here </a></b>
 			</p></td></tr><tr>
     <td style="width:30%">
-      <img alt="sage" src="https://www.sagecc.org.sg/static/media/logo-dark.3dd116e1.png">
+      <img alt="sage" src="https://img.freepik.com/free-vector/time-management-calendar-method-appointment-planning-business-organizer-people-drawing-mark-work-schedule-cartoon-characters-colleagues-teamwork_335657-2096.jpg?w=740&amp;t=st=1691650832~exp=1691651432~hmac=00547af1cb10c793b94d643edf0591fda511e8a019e04a0767e0dec33f83c9ec">
     </td>	
     <td style="width:70%">
-      			<b>	<a target="_blank" href="https://www.sagecc.org.sg/">SAGE Counselling Centre </a></b> (For Older Persons)<br><br>
-			<img alt="sage" src="https://www.sagecc.org.sg/static/media/SHL.de7bd148.png">
-			<br><b>Seniors Hotline <a target="_blank" href="https://www.sagecc.org.sg/#/ourWork">(Learn more)</a>:</b> 1800 555 5555 <br> Operating hours: Mon - Fri 91m-7pm, Sat 9am-1pm
-		 <p>SAGE Counselling Centre is a non-profit and non-religious Social Service Agency. We strive to address the changing needs of senior citizens in the community, not just for the needy and lonely to achieve better quality of life, but also for the able-bodied and healthy to lead fulfilling lives, engaging in lifelong learning and active ageing.
-			</p><p>
-			<b> Opening hours: </b> Weekdays 8.30am - 5.30pm. Closed on weekends <br>
-			<b> Address:</b> 1 Jurong West Central 2, Jurong Point, Singapore 648886 (Located in Jurong Point) <br>
-			<b> Contact no: </b> 6354 1191 <br>
+      			<b>	Event title</b> <br><br>
+			 <p>
+		 Date:  September 2023<br>
+		 Time: Sample<br>
+		 Location/type: Online (Zoom) or address<br>
+		 Partner: Sample<br> 
+		 <b><a target="_blank" href="https://form.gov.sg/64d487d0ddf0320011233805">Register here </a></b>
     <br></p></td>
-  </tr></tbody></table><p></p><p></p><p></p>
+				</tr><tr>
+				<td style="width:30%">
+      <img alt="sage" src="https://img.freepik.com/free-vector/time-management-calendar-method-appointment-planning-business-organizer-people-drawing-mark-work-schedule-cartoon-characters-colleagues-teamwork_335657-2096.jpg?w=740&amp;t=st=1691650832~exp=1691651432~hmac=00547af1cb10c793b94d643edf0591fda511e8a019e04a0767e0dec33f83c9ec">
+    </td>	
+    <td style="width:70%">
+      			<b>	Event title</b> <br><br>
+			 <p>
+		 Date:  September 2023<br>
+		 Time: Sample<br>
+		 Location/type: Online (Zoom) or address<br>
+		 Partner: Sample<br> 
+		 <b><a target="_blank" href="https://form.gov.sg/64d487d0ddf0320011233805">Register here </a></b>
+				 </p></td></tr><tr>
+				<td style="width:30%">
+      <img alt="sage" src="https://img.freepik.com/free-vector/time-management-calendar-method-appointment-planning-business-organizer-people-drawing-mark-work-schedule-cartoon-characters-colleagues-teamwork_335657-2096.jpg?w=740&amp;t=st=1691650832~exp=1691651432~hmac=00547af1cb10c793b94d643edf0591fda511e8a019e04a0767e0dec33f83c9ec">
+    </td>	
+    <td style="width:70%">
+      			<b>	Event title</b> <br><br>
+			 <p>
+		 Date:  September 2023<br>
+		 Time: Sample<br>
+		 Location/type: Online (Zoom) or address<br>
+		 Partner: Sample<br> 
+		 <b><a target="_blank" href="https://form.gov.sg/64d487d0ddf0320011233805">Register here </a></b>
+				 </p></td></tr><tr>
+				<td style="width:30%">
+      <img alt="sage" src="https://img.freepik.com/free-vector/time-management-calendar-method-appointment-planning-business-organizer-people-drawing-mark-work-schedule-cartoon-characters-colleagues-teamwork_335657-2096.jpg?w=740&amp;t=st=1691650832~exp=1691651432~hmac=00547af1cb10c793b94d643edf0591fda511e8a019e04a0767e0dec33f83c9ec">
+    </td>	
+    <td style="width:70%">
+      			<b>	Event title</b> <br><br>
+			 <p>
+		 Date:  September 2023<br>
+		 Time: Sample<br>
+		 Location/type: Online (Zoom) or address<br>
+		 Partner: Sample<br> 
+		 <b><a target="_blank" href="https://form.gov.sg/64d487d0ddf0320011233805">Register here </a></b>
+				 </p></td></tr><tr>
+				<td style="width:30%">
+      <img alt="sage" src="https://img.freepik.com/free-vector/time-management-calendar-method-appointment-planning-business-organizer-people-drawing-mark-work-schedule-cartoon-characters-colleagues-teamwork_335657-2096.jpg?w=740&amp;t=st=1691650832~exp=1691651432~hmac=00547af1cb10c793b94d643edf0591fda511e8a019e04a0767e0dec33f83c9ec">
+    </td>	
+    <td style="width:70%">
+      			<b>	Event title</b> <br><br>
+			 <p>
+		 Date:  September 2023<br>
+		 Time: Sample<br>
+		 Location/type: Online (Zoom) or address<br>
+		 Partner: Sample<br> 
+		 <b><a target="_blank" href="https://form.gov.sg/64d487d0ddf0320011233805">Register here </a></b>
+  </p></td></tr></tbody></table><p></p><p></p><p></p>
