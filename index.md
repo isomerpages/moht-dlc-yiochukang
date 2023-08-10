@@ -12,12 +12,6 @@ sections:
       button: Register for events here
       url: /events/
       subtitle: Happening from 1 Sep - 30 Sep 2023
-  - infobar:
-      title: See What's Happening
-      subtitle: Activities Schedule
-      description: Explore events & activities happening at the Health Carnival in YCK
-      button: Browse
-      url: /faq/
   - infopic:
       image: /images/sample picture1.png
       alt: Image alt text
