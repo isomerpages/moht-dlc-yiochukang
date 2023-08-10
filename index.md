@@ -4,7 +4,7 @@ title: YCK Healthy Carnival
 description: Browse all talks & workshops available for YCK residents.
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Health Carnival will start in Sep 2023
 sections:
   - hero:
       title: Health Carnival @ Yio Chu Kang
