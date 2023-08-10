@@ -21,4 +21,8 @@ sections:
   - infopic:
       image: /images/sample picture1.png
       alt: Image alt text
+      title: Explore & Participate
+      subtitle: Health Carnival @ YCK 2023
+      button: Upcoming events
+      url: /events/
 ---
