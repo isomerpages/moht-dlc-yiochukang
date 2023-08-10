@@ -11,7 +11,7 @@ sections:
       background: /images/happy crowd greeting little winner of racing.jpg
       button: Register for events here
       url: /events/
-      subtitle: Towards a healthier Singapore
+      subtitle: Happening from 1 Sep - 30 Sep 2023
   - infobar:
       title: See What's Happening
       subtitle: Activities Schedule
