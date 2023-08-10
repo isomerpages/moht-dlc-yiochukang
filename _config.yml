@@ -2,7 +2,7 @@ title: YCK Healthy Carnival
 url: https://www.healthycarnivalyck.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#54bba3"
+  primary-color: "#b65443"
   secondary-color: "#f37354"
   media-colors:
     - title: media-color-one
@@ -15,7 +15,7 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: "Browse all talks & workshops available for YCK residents. "
+description: Browse all talks & workshops available for YCK residents.
 permalink: none
 baseurl: ""
 exclude:
