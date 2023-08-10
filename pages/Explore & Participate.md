@@ -3,7 +3,7 @@ title: Explore & Participate
 permalink: /events/
 description: ""
 ---
-## Events for you
+## List of Events
 
 <p>
 			</p><table style="width:100%">
