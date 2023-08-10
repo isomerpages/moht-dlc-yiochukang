@@ -1,9 +1,9 @@
 title: YCK Healthy Carnival
-url: https://www.healthycarnivalyck.com.sg
+url: https://www.healthcarnivalyck.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#b65443"
-  secondary-color: "#f37354"
+  primary-color: "#4a90e2"
+  secondary-color: "#50e3c2"
   media-colors:
     - title: media-color-one
       color: "#49759a"
